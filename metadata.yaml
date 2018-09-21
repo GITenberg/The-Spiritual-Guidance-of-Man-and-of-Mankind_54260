@@ -1,0 +1,34 @@
+_repo: The-Spiritual-Guidance-of-Man-and-of-Mankind_54260
+_version: 0.0.1
+alternative_title: Die geistige Führung des Menschen und der Menschheit. English
+creator:
+  author:
+    agent_name: Steiner, Rudolf
+    alias: Steiner, Rudolph
+    birthdate: 1861
+    deathdate: 1925
+    gutenberg_agent_id: '26537'
+    url: http://www.gutenberg.org/2009/agents/26537
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Steiner
+  editor:
+    agent_name: Collison, Harry
+    alias: Collison, H. (Harry)
+    gutenberg_agent_id: '26536'
+    url: http://www.gutenberg.org/2009/agents/26536
+description: ''
+gutenberg_issued: '2017-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jesus Christ -- Anthroposophical interpretations'
+- !lcc 'BP'
+- !lcsh 'Theosophy'
+- !lcsh 'Anthroposophy'
+- GITenberg
+title: The Spiritual Guidance of Man and of Mankind
+url: http://www.gutenberg.org/ebooks/54260
